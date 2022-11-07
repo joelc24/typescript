@@ -30,5 +30,5 @@
     const avengerArr: string[] = ["Cap America","Iroman","Hulk"]
 
     const [ , iroman ] = avengerArr
-    console.log({ iroman })
+    // console.log({ iroman })
 })()
